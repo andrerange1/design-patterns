@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qcniJcuXdjTgwOTGlI5tRKzgnm/iECV0vWzHwaUNsE1OpRyFVsdhbOUTsCaoQ6maGu7B7DiSiBPRL+7Det1Gyg==",
+  "dgSpecHash": "NdPx767nWYWc60shRt3d1RbCYkN6IdB543yOz7V3fMbPhM2UjI4iR6cU7BNjF4BqDgo0SZtHkFJRLNNrZsmVcw==",
   "success": true,
-  "projectFilePath": "C:\\design-patterns\\ConsoleApp2\\ConsoleApp2.csproj",
+  "projectFilePath": "C:\\design-patterns\\ConsoleApp2\\DesignPatterns.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

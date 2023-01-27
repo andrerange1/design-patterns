@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\design-patterns\\ConsoleApp2\\ConsoleApp2.csproj",
-      "projectName": "ConsoleApp2",
-      "projectPath": "C:\\design-patterns\\ConsoleApp2\\ConsoleApp2.csproj",
+      "projectUniqueName": "C:\\design-patterns\\ConsoleApp2\\DesignPatterns.csproj",
+      "projectName": "DesignPatterns",
+      "projectPath": "C:\\design-patterns\\ConsoleApp2\\DesignPatterns.csproj",
       "packagesPath": "C:\\Users\\andre.santos\\.nuget\\packages\\",
       "outputPath": "C:\\design-patterns\\ConsoleApp2\\obj\\",
       "projectStyle": "PackageReference",

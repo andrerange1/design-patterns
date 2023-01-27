@@ -1,0 +1,15 @@
+C:\design-patterns\ConsoleApp2\bin\Debug\net6.0\DesignPatterns.exe
+C:\design-patterns\ConsoleApp2\bin\Debug\net6.0\DesignPatterns.deps.json
+C:\design-patterns\ConsoleApp2\bin\Debug\net6.0\DesignPatterns.runtimeconfig.json
+C:\design-patterns\ConsoleApp2\bin\Debug\net6.0\DesignPatterns.dll
+C:\design-patterns\ConsoleApp2\bin\Debug\net6.0\DesignPatterns.pdb
+C:\design-patterns\ConsoleApp2\obj\Debug\net6.0\DesignPatterns.csproj.AssemblyReference.cache
+C:\design-patterns\ConsoleApp2\obj\Debug\net6.0\DesignPatterns.GeneratedMSBuildEditorConfig.editorconfig
+C:\design-patterns\ConsoleApp2\obj\Debug\net6.0\DesignPatterns.AssemblyInfoInputs.cache
+C:\design-patterns\ConsoleApp2\obj\Debug\net6.0\DesignPatterns.AssemblyInfo.cs
+C:\design-patterns\ConsoleApp2\obj\Debug\net6.0\DesignPatterns.csproj.CoreCompileInputs.cache
+C:\design-patterns\ConsoleApp2\obj\Debug\net6.0\DesignPatterns.dll
+C:\design-patterns\ConsoleApp2\obj\Debug\net6.0\refint\DesignPatterns.dll
+C:\design-patterns\ConsoleApp2\obj\Debug\net6.0\DesignPatterns.pdb
+C:\design-patterns\ConsoleApp2\obj\Debug\net6.0\DesignPatterns.genruntimeconfig.cache
+C:\design-patterns\ConsoleApp2\obj\Debug\net6.0\ref\DesignPatterns.dll
