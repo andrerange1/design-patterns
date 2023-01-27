@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0AnoA4HWjnE+DWEPnLIplaN96y1ZkFZ/3AYGB2YGyXDiFJnHg3WmaWTNnQP4kVVrZHAjeC1H2VK3t2zVFaEqBg==",
+  "dgSpecHash": "qcniJcuXdjTgwOTGlI5tRKzgnm/iECV0vWzHwaUNsE1OpRyFVsdhbOUTsCaoQ6maGu7B7DiSiBPRL+7Det1Gyg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\andre.santos\\source\\repos\\ConsoleApp2\\ConsoleApp2\\ConsoleApp2.csproj",
+  "projectFilePath": "C:\\design-patterns\\ConsoleApp2\\ConsoleApp2.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

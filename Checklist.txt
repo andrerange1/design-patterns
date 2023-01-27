@@ -1,0 +1,34 @@
+SOLID
+
+Creational, Strictural and Behavioral
+
+CREATIONAL
+Builder
+Factories
+   Abstract Factory
+   Factory Method
+Prototype
+Singleton
+
+STRUCTURAL
+Adapter
+Bridge
+Composite
+Decorator
+Façade
+Flyweight
+Proxy
+
+BEHAVIORAL
+Chain of Responsibility
+Command
+Interpreter
+Iterator
+Mediaton
+Memento
+Null Object
+Observer
+State
+Strategy
+Template Method
+Visitor
