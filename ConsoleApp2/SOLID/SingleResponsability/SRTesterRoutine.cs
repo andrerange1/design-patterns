@@ -1,4 +1,10 @@
-﻿
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+
 /*
  * Single responsability principle 
  * Cada coisa tem sua responsabilidade única
@@ -12,21 +18,22 @@
  * a responsabilidade de Persistencia somente para ela.
  */
 
+namespace DesignPatterns.SOLID
+{
+    public static class SRTesterRoutine
+    {
+        public static void Run() {
+
+            var j = new Journal();
+            j.AddEntry("I cried today");
+            j.AddEntry("I ate a bug");
+            Console.WriteLine(j);
 
 
-using DesignPatterns.SOLID.SingleResponsability;
+            var p = new Persistence();
+            var filename = @"C:\design-patterns\journal.txt";
+            p.SaveToFile(j, filename, true);
 
-var j = new Journal();
-j.AddEntry("I cried today");
-j.AddEntry("I ate a bug");
-Console.WriteLine(j);
-
-
-var p = new Persistence();
-var filename = @"C:\design-patterns\journal.txt";
-p.SaveToFile(j, filename, true);
-
-
-
-
-
+        }
+    }
+}

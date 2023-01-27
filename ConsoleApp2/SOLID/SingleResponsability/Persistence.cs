@@ -1,4 +1,4 @@
-﻿namespace DesignPatterns.SOLID.SingleResponsability
+﻿namespace DesignPatterns.SOLID
 {
     public class Persistence
     {

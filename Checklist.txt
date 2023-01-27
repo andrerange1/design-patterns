@@ -1,3 +1,9 @@
+MINHAS DUVIDAS
+ yield
+ duas interrogações "??" 
+
+
+
 SOLID
 Single Responsability
 

@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DesignPatterns.SOLID.SingleResponsability
+namespace DesignPatterns.SOLID
 {
     public class Journal
     {
