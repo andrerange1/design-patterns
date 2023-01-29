@@ -6,6 +6,7 @@ MINHAS DUVIDAS
 
 SOLID
 Single Responsability
+Open Close
 
 Creational, Strictural and Behavioral
 
