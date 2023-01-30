@@ -1,4 +1,6 @@
 ﻿using DesignPatterns.SOLID;
+using DesignPatterns.CREATIONAL.Builder;
+
 
 
 
@@ -8,7 +10,13 @@
 
 //OCTesterRoutine.Run();
 
-LSTesterRoutine.Run();
+//LSTesterRoutine.Run();
+
+//FluentBuilderTester.Run();
+
+SWBRoutineRester.Run();
+
+
 
 
 
