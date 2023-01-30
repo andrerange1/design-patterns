@@ -1,6 +1,7 @@
 MINHAS DUVIDAS
  yield
  duas interrogações "??" 
+ sealed class
 
 
 

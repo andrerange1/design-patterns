@@ -14,8 +14,12 @@ using DesignPatterns.CREATIONAL.Builder;
 
 //FluentBuilderTester.Run();
 
-SWBRoutineRester.Run();
+//SWBRoutineRester.Run();
 
+var builder = new HtmlBuilder("ul");
+builder.AddChild("li", "andre");
+builder.AddChild("li", "Luiz");
+Console.WriteLine(builder.ToString());
 
 
 
