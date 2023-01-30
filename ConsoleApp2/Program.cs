@@ -16,10 +16,19 @@ using DesignPatterns.CREATIONAL.Builder;
 
 //SWBRoutineRester.Run();
 
-var builder = new HtmlBuilder("ul");
-builder.AddChild("li", "andre");
-builder.AddChild("li", "Luiz");
-Console.WriteLine(builder.ToString());
+//var builder = new HtmlBuilder("ul");
+//builder.AddChild("li", "andre");
+
+//builder.AddChildFluent("li", "Luiz").AddChild("li", "elis");
+
+//Console.WriteLine(builder.ToString());
+
+var cb = new CodeBuilder("Person")
+    .AddField("Name", "string")
+    .AddField("Age", "int")
+    .AddField("Address", "string");
+
+Console.WriteLine(cb.ToString());
 
 
 
